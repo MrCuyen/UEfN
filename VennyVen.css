@@ -1,0 +1,3 @@
+video[class*="mirror"] {
+  transform: none !important;
+}
